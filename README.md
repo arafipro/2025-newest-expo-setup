@@ -12,6 +12,8 @@
 - Expo
 - Expo Router
 - Nativewind
+- Jest
+- React Native Testing Library
 
 ## 初期設定
 
